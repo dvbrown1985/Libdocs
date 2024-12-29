@@ -77,7 +77,21 @@ with container_x:
             LeXi is designed to converse with you about the Declaration of Independence, the US Constitution, and the insights of the Founding Fathers.
         </p>
         <p style="font-size:17px; line-height:1.6;">
-            LeXi is a shorter, friendlier form of Alexander, meaning 'defender of mankind,' much like how the Constitution protects our rights.
+            
+            How it works:
+
+            1. You provide a query.
+            2. Lexi generates an embedding for the query using the ms-marco-TinyBERT-L-2-v2 cross-encoder.
+            3. Lexi uses the FAISS index to retrieve the top-k most similar documents based on their embeddings.
+            4. Lexi re-ranks the top-k results retrieved by FAISS using the original ms-marco-TinyBERT-L-2-v2 cross-encoder to get a more precise similarity score for the final ranking.
+            5. The sorted text results are passed to a structured prompt which is passed to the Google Gemini API to develop a response.
+            6. Google Gemini's response is added to the message history and displayed within the chat container.
+
+            Sample queries:
+            1. Tell me about the first amendment.
+            2. What can you tell me about the founding fathers?
+            3. Describe executive power. 
+
         </p>
         <p style="font-size:17px; line-height:1.6; color:#48acd2;">
             🇺🇸 Use the input bar below to get started.
