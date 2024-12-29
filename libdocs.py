@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[4]:
 
 
 # Import necessary libraries
@@ -21,34 +21,30 @@ st.set_page_config(
     layout="centered"
 )
 
-# --- 2. Load Documents ---
-print('Loading files...')
-files = ["founding docs.txt"]
-documents = []
+@st.cache_resource
+def load_and_process_docs(files):
+    documents = []
+    for file in files:
+        documents.extend(TextLoader(file).load())  # Flatten the loaded documents
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+    texts = text_splitter.split_documents(documents)
+    return texts
 
-for file in files:
-    loader = TextLoader(file)
-    documents.extend(loader.load())
+@st.cache_resource
+def get_embeddings_and_index(_texts):
+    embedder = SentenceTransformer('all-mpnet-base-v2')
+    embeddings = embedder.encode([t.page_content for t in _texts], normalize_embeddings=True)
+    index = faiss.IndexFlatIP(embeddings.shape[1])
+    index.add(np.array(embeddings))
+    return embeddings, index
 
-# --- 3. Split Text into Chunks ---
-print("Splitting text into chunks...")
-text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=1000,
-    chunk_overlap=200,
-    separators=["\n\n", "\n", ".", " "]
-)
-texts = text_splitter.split_documents(documents)
+@st.cache_resource
+def get_reranker():
+    return CrossEncoder('cross-encoder/ms-marco-TinyBERT-L-2-v2')
 
-# --- 4. Embed Text Chunks ---
-print("Embedding text using SBERT...")
-embedder = SentenceTransformer('all-mpnet-base-v2')
-embeddings = embedder.encode([t.page_content for t in texts], normalize_embeddings=True)
-
-# --- 5. Create FAISS Index ---
-embedding_dim = embeddings.shape[1]
-index = faiss.IndexFlatIP(embedding_dim)  # Cosine similarity with normalized embeddings
-print("Indexing embeddings...")
-index.add(np.array(embeddings))
+texts = load_and_process_docs(["founding docs.txt"])
+embeddings, index = get_embeddings_and_index(texts)
+reranker = get_reranker()
 
 # --- 6. Initialize Streamlit Session State ---
 if "messages" not in st.session_state:
@@ -112,12 +108,8 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     retrieved_texts = [texts[i].page_content for i in indices[0]]
 
     # Rerank Retrieved Chunks
-    print("Reranking retrieved chunks with TinyBERT...")
-    reranker = CrossEncoder('cross-encoder/ms-marco-TinyBERT-L-2-v2')
     rerank_scores = reranker.predict([(query, text) for text in retrieved_texts])
     sorted_texts = [text for _, text in sorted(zip(rerank_scores, retrieved_texts), reverse=True)]
-
-    # Combine Top Results into Context
     context = "\n".join(sorted_texts)
     print("\nTop Retrieved Context:\n")
     print(context)
