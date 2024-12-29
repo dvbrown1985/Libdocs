@@ -9,19 +9,19 @@ All legislative Powers herein granted shall be vested in a Congress of the Unite
 Section 2: The House of Representatives
 The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
 No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.
-Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons. The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
+Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons. The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to choose three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
 When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.
 The House of Representatives shall chuse their Speaker and other Officers;and shall have the sole Power of Impeachment.
 Section 3: The Senate
 The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote.
-Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.
+Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.
 No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen.
 The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided.
 The Senate shall chuse their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the United States.
 The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
 Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
 Section 4: Elections
-The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.
+The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of choosing Senators.
 The Congress shall assemble at least once in every Year, and such Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.
 Section 5: Powers and Duties of Congress
 Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members,and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide.
@@ -30,13 +30,13 @@ Each House shall keep a Journal of its Proceedings, and from time to time publis
 Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting.
 Section 6: Rights and Disabilities of Members
 The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States.They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
-No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of the United States, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office.
+No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of the United States, which shall have been created, or the Emoluments whereof shall have been increased during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office.
 Section 7: Legislative Process
 All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.
 Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States; If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
 Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
 Section 8: Powers of Congress
-The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;
+The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;
 To borrow Money on the credit of the United States;
 To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;
 To establish a uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;
@@ -56,7 +56,7 @@ To exercise exclusive Legislation in all Cases whatsoever, over such District (n
 To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.
 Section 9: Powers Denied Congress
 The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight, but a Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person.
-The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.
+The Privilege of the Writ of Habeas Corpus shall not be suspended, unless in Cases of Rebellion or Invasion the public Safety may require it.
 No Bill of Attainder or ex post facto Law shall be passed.
 No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or enumeration herein before directed to be taken.
 No Tax or Duty shall be laid on Articles exported from any State.
@@ -65,7 +65,7 @@ No Money shall be drawn from the Treasury, but in Consequence of Appropriations 
 No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State.
 Section 10: Powers Denied to the States
 No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
-No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing it's inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Controul of the Congress.
+No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing it's inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Control of the Congress.
 No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
 
 Article II
@@ -73,11 +73,11 @@ Section 1
 The executive Power shall be vested in a President of the United States of America.
 He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows:
 Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
-The Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves. And they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate. The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted. The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed; and if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately chuse by Ballot one of them for President; and if no Person have a Majority, then from the five highest on the List the said House shall in like Manner chuse the President. But in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice. In every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President. But if there should remain two or more who have equal Votes, the Senate shall chuse from them by Ballot the Vice President.
-The Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States.
+The Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves. And they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate. The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted. The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed; and if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately choose by Ballot one of them for President; and if no Person have a Majority, then from the five highest on the List the said House shall in like Manner choose the President. But in choosing the President, the Votes shall be taken by States, the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice. In every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President. But if there should remain two or more who have equal Votes, the Senate shall choose from them by Ballot the Vice President.
+The Congress may determine the Time of choosing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States.
 No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
 In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.
-The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
+The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
 Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:--"I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States."
 Section 2
 The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.
@@ -101,7 +101,7 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 Article IV
 Section 1
-Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof.
+Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof.
 Section 2
 The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.
 A Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime.
@@ -157,7 +157,7 @@ The powers not delegated to the United States by the Constitution, nor prohibite
 The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
 
 12th Amendment
-The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate; -- the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; -- The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in case of the death or other constitutional disability of the President.-- The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.
+The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate; -- the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; -- The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in case of the death or other constitutional disability of the President.-- The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.
 
 13th Amendment
 Section 1
@@ -169,7 +169,7 @@ Congress shall have power to enforce this article by appropriate legislation.
 Section 1
 All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
 Section 2
-Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
+Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
 Section 3
 No person shall be a Senator or Representative in Congress, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.
 Section 4
@@ -250,7 +250,7 @@ Whenever there is a vacancy in the office of the Vice President, the President s
 Section 3
 Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that he is unable to discharge the powers and duties of his office, and until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the Vice President as Acting President.
 Section 4
-Whenever the Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide, transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office, the Vice President shall immediately assume the powers and duties of the office as Acting President.       Thereafter, when the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that no inability exists, he shall resume the powers and duties of his office unless the Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide, transmit within four days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office. Thereupon Congress shall decide the issue, assembling within forty-eight hours for that purpose if not in session. If the Congress, within twenty-one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty-one days after Congress is required to assemble, determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office.
+Whenever the Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide, transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office, the Vice President shall immediately assume the powers and duties of the office as Acting President.       Thereafter, when the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that no inability exists, he shall resume the powers and duties of his office unless the Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide, transmit within four days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office. Thereupon Congress shall decide the issue, assembling within forty-eight hours for that purpose if not in session. If the Congress, within twenty-one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty-one days after Congress is required to assemble, determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office.
 
 26th Amendment
 Section 1
@@ -264,18 +264,18 @@ No law, varying the compensation for the services of the Senators and Representa
 The Declaration Of Independence 
 
 In Congress, July 4, 1776
-The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.
+The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.
 We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.--Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government. The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.
 He has refused his Assent to Laws, the most wholesome and necessary for the public good.
 He has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected to attend to them.
 He has refused to pass other Laws for the accommodation of large districts of people, unless those people would relinquish the right of Representation in the Legislature, a right inestimable to them and formidable to tyrants only.
 He has called together legislative bodies at places unusual, uncomfortable, and distant from the depository of their public Records, for the sole purpose of fatiguing them into compliance with his measures.
 He has dissolved Representative Houses repeatedly, for opposing with manly firmness his invasions on the rights of the people.
-He has refused for a long time, after such dissolutions, to cause others to be elected; whereby the Legislative powers, incapable of Annihilation, have returned to the People at large for their exercise; the State remaining in the mean time exposed to all the dangers of invasion from without, and convulsions within.
+He has refused for a long time, after such dissolutions, to cause others to be elected; whereby the Legislative powers, incapable of Annihilation, have returned to the People at large for their exercise; the State remaining in the meantime exposed to all the dangers of invasion from without, and convulsions within.
 He has endeavoured to prevent the population of these States; for that purpose obstructing the Laws for Naturalization of Foreigners; refusing to pass others to encourage their migrations hither, and raising the conditions of new Appropriations of Lands.
 He has obstructed the Administration of Justice, by refusing his Assent to Laws for establishing Judiciary powers.
 He has made Judges dependent on his Will alone, for the tenure of their offices, and the amount and payment of their salaries.
-He has erected a multitude of New Offices, and sent hither swarms of Officers to harrass our people, and eat out their substance.
+He has erected a multitude of New Offices, and sent hither swarms of Officers to harass our people, and eat out their substance.
 He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures.
 He has affected to render the Military independent of and superior to the Civil power.
 He has combined with others to subject us to a jurisdiction foreign to our constitution, and unacknowledged by our laws; giving his Assent to their Acts of pretended Legislation:
@@ -290,680 +290,82 @@ For taking away our Charters, abolishing our most valuable Laws, and altering fu
 For suspending our own Legislatures, and declaring themselves invested with power to legislate for us in all cases whatsoever.
 He has abdicated Government here, by declaring us out of his Protection and waging War against us.
 He has plundered our seas, ravaged our Coasts, burnt our towns, and destroyed the lives of our people.
-He is at this time transporting large Armies of foreign Mercenaries to compleat the works of death, desolation and tyranny, already begun with circumstances of Cruelty & perfidy scarcely paralleled in the most barbarous ages, and totally unworthy the Head of a civilized nation.
+He is at this time transporting large Armies of foreign Mercenaries to complete the works of death, desolation and tyranny, already begun with circumstances of Cruelty & perfidy scarcely paralleled in the most barbarous ages, and totally unworthy the Head of a civilized nation.
 He has constrained our fellow Citizens taken Captive on the high Seas to bear Arms against their Country, to become the executioners of their friends and Brethren, or to fall themselves by their Hands.
 He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions.
 In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A Prince whose character is thus marked by every act which may define a Tyrant, is unfit to be the ruler of a free people.
-Nor have We been wanting in attentions to our Brittish brethren. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpations, which, would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.
+Nor have We been wanting in attentions to our British brethren. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpations, which, would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.
 We, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States may of right do. And for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor.
 
 
 The Founding Fathers
 
-The Founding Fathers of the United States, often simply referred to as the Founding Fathers or the Founders, were a group of late-18th-century American revolutionary leaders who united the Thirteen Colonies, oversaw the War of Independence from Great Britain, established the United States of America, and crafted a framework of government for the new nation.
-The Founding Fathers include those who signed the United States Declaration of Independence, the Articles of Confederation, the United States Constitution and other founding documents; it can also be applied to military personnel who fought in the American Revolution. The single person most identified as "Father" of the United States is George Washington, a general in the American Revolution and the 1st President of the United States. In 1973, historian Richard B. Morris identified seven figures as key founders, based on what he called the "triple tests" of leadership, longevity, and statesmanship: John Adams, Benjamin Franklin, Alexander Hamilton, John Jay, Thomas Jefferson, James Madison, and Washington.[2]
-Most of the Founding Fathers were of English ancestry, though many had family roots extending across various regions of the British Isles, including Scotland, Wales, and Ireland. Additionally, some traced their lineage back to the early Dutch settlers of New York (New Netherland) during the colonial era, while others were descendants of French Huguenots who settled in the colonies, escaping religious persecution in France.[3][4][5]
-Historical founders[edit]
+The term Founding Fathers refers broadly to those individuals who led the American Revolution against the authority of the British Crown and established the United States of America. It may be more narrowly defined as referring specifically to those who either signed the Declaration of Independence in 1776. This term includes those who were delegates to the 1787 Constitutional Convention and took part in drafting the proposed Constitution of the United States.
 
-Thomas Jefferson, a key Founding Father, was the primary author of the Declaration of Independence, which Pulitzer Prize-winning historian Joseph Ellis says contains "the most potent and consequential words in American history".[6]
-Historian Richard Morris' selection of seven key founders was widely accepted through the 20th century.[7][8] John Adams, Thomas Jefferson, and Benjamin Franklin were members of the Committee of Five that were charged by the Second Continental Congress with drafting the Declaration of Independence. Franklin, Adams, and John Jay negotiated the 1783 Treaty of Paris, which established American independence and brought an end to the American Revolutionary War.[9] The constitutions drafted by Jay and Adams for their respective states of New York (1777) and Massachusetts (1780) proved influential in the language used in developing the U.S. Constitution.[10][11][12] The Federalist Papers, which advocated the ratification of the Constitution, were written by Alexander Hamilton, James Madison, and Jay. George Washington was commander-in-chief of the Continental Army and later president of the Constitutional Convention.[13][14]
-Each of these men held additional important roles in the early government of the United States. Washington, Adams, Jefferson, and Madison served as the first four presidents; Adams and Jefferson were the nation's first two vice presidents;[15] Jay was the nation's first chief justice;[16] Hamilton was the first secretary of the treasury;[17] Jefferson was the first secretary of state;[18][19] and Franklin was America's most senior diplomat from the start of the Revolutionary War through its conclusion with the signing of the Treaty of Paris in 1783.[20]
-The list of Founding Fathers is often expanded to include the signers of the Declaration of Independence and individuals who later approved the U.S. Constitution.[2] Some scholars regard all delegates to the Constitutional Convention as Founding Fathers whether they approved the Constitution or not.[21][22] In addition, some historians include signers of the Articles of Confederation, which was adopted in 1781 as the nation's first constitution.[23]
-Historians have come to recognize others as founders, such as Revolutionary War military leaders as well as participants in developments leading up to the war, including prominent writers, orators, and other men and women who contributed to cause.[8][24][25][26] Since the 19th century, the Founding Fathers have shifted from the concept of them as demigods who created the modern nation-state, to take into account their inability to address issues such as slavery and the debt owed after the American Revolutionary War.[27][28] Scholars emphasize that the Founding Fathers' accomplishments and shortcomings be viewed within the context of their time.[29]
-Origin of phrase[edit]
-The phrase "Founding Fathers" was first used by U.S. senator Warren G. Harding in his keynote speech at the Republican National Convention of 1916.[30] Harding later repeated the phrase at his March 4, 1921, inauguration.[31] While U.S. presidents used the terms "founders" and "fathers" in their speeches throughout much of the early 20th century, it was another 60 years before Harding's phrase would be used again during the inaugural ceremonies. Ronald Reagan referred to "Founding Fathers" at both his first inauguration on January 20, 1981, and his second on January 20, 1985.[32][33]
-In 1811, responding to praise for his generation, John Adams wrote to a younger Josiah Quincy III, "I ought not to object to your Reverence for your Fathers as you call them ... but to tell you a very great secret ... I have no reason to believe We were better than you are."[34] He also wrote, "Don't call me, ... Father ... [or] Founder ... These titles belong to no man, but to the American people in general."[35]
-In Thomas Jefferson's second inaugural address in 1805, he referred to those who first came to the New World as "forefathers".[36] At his 1825 inauguration, John Quincy Adams called the U.S. Constitution "the work of our forefathers" and expressed his gratitude to "founders of the Union".[37] In July of the following year, John Quincy Adams, in an executive order upon the deaths of his father John Adams and Jefferson, who died on the same day, paid tribute to them as both "Fathers" and "Founders of the Republic".[38] These terms were used in the U.S. throughout the 19th century, from the inaugurations of Martin Van Buren and James Polk in 1837 and 1845, to Abraham Lincoln's Cooper Union speech in 1860 and his Gettysburg Address in 1863, and up to William McKinley's first inauguration in 1897.[39][40][41][42]
-At a 1902 celebration of Washington's Birthday in Brooklyn, James M. Beck, a constitutional lawyer and later a U.S. congressman, delivered an address, "Founders of the Republic", in which he connected the concepts of founders and fathers, saying: "It is well for us to remember certain human aspects of the founders of the republic. Let me first refer to the fact that these fathers of the republic were for the most part young men."[25]
-List of Founding Fathers[edit]Framers and signers[edit]
-Further information: Framers
+Some historians define the "Founding Fathers" to mean a larger group, including not only the Signers and the Framers but also all those who, whether as politicians, jurists, statesmen, soldiers, diplomats, or ordinary citizens, took part in winning American independence and creating the United States of America.
 
-Portraits and autograph signatures of the Founding Fathers, who signed the Declaration of Independence at the Second Continental Congress in Philadelphia
-The National Archives has identified three founding documents as the "Charters of Freedom": Declaration of Independence, United States Constitution, and Bill of Rights. According to the Archives, these documents "have secured the rights of the American people for nearly two and a half centuries and are considered instrumental to the founding and philosophy of the United States."[43] In addition, as the nation's first constitution, the Articles of Confederation and Perpetual Union is also a founding document.[44][45] As a result, signers of three key documents are generally considered to be Founding Fathers of the United States: Declaration of Independence (DI),[21] Articles of Confederation (AC),[23] and U.S. Constitution (USC).[22] The following table provides a list of these signers, some of whom signed more than one document.
-Name
-Province/state
-DI (1776)
-AC (1777)
-USC (1787)
-Andrew Adams
-Connecticut
+In 1973, historian Richard B. Morris identified the following seven figures as the key Founding Fathers: John Adams, Benjamin Franklin, Alexander Hamilton, John Jay, Thomas Jefferson, James Madison, and George Washington. Three of these (Hamilton, Jay, and Madison) were authors of The Federalist Papers, a series of articles and essays advocating ratification of the Constitution.
 
-Yes
+Some lesser known, but no less important founders include James Wilson, Roger Sherman, and George Mason.
 
-John Adams
-Massachusetts
-Yes
+FACTS ABOUT THE FOUNDING FATHERS
 
+John Adams	
+John Adams was born in Massachusetts in 1735. He was a Harvard lawyer who defended the British soldiers after the Boston Massacre. He served as a delegate to both Continental Congresses and was on the committee to write the Declaration of Independence. He was the first Vice President and the second President of the United States.
+During his Presidency, he tried to maintain neutrality with England and France, even though the French attempted a bribe during the XYZ Affair. He is criticized for signing the Alien and Sedition Acts which many said violated civil liberties. Adams was defeated by Jefferson in 1800 when he ran for a second term. Before he left office, he appointed John Marshall as Chief Justice. In the final days of his Presidency, he appointed Federalists to fill several new judgeships in what is called “the midnight appointments.” It was one of these appointments that led to the famous case Marbury v Madison. He died on July 4, 1826.
 
-Samuel Adams
-Massachusetts
-Yes
-Yes
+Benjamin Franklin	
+Benjamin Franklin was an inventor, writer, printer, diplomat, scientist, humorist, and statesman. He was born in Boston in 1706. In 1733 he started publishing Poor Richard’s Almanack. A distinguishing feature of Franklin’s almanac was his witty sayings and lively writing. During the French and Indian War, Franklin advocated colonial unity with his Albany Plan which encouraged the colonists to “Join or Die.” He was a delegate to both Continental Congresses and a member of the committee to write the Declaration of Independence. Franklin was the U.S. Ambassador to France and helped to negotiate the Treaty of Paris that ended the American Revolution. The French loved Franklin, and he was very popular there. Later, he was the oldest delegate to the Constitutional Convention at the age of 81. He became a member of the Pennsylvania Abolition Society before he died.
 
-Thomas Adams
-Virginia
+Alexander Hamilton	
+Alexander Hamilton was born in the West Indies in 1755. He was the Aide-De-Camp (personal assistant) to George Washington during the American Revolution. He was a delegate from New York during the Constitutional Convention in 1787. As a proponent of a strong central government, he was one of the authors of The Federalist Papers (essays that promoted the ratification of the Constitution). Hamilton was the first Secretary of the Treasury under President George Washington. He worked to pay off the country’s war debts through his financial plan which included the assumption of state debts and creation of a national bank. He was the founder of the Federalist Party--considered the first political party. On July 11, 1804, he fought a duel with Aaron Burr who was angry over Hamilton’s support of Jefferson in the presidential election of 1800. Hamilton was shot by Burr and died the next day.
 
-Yes
+John Jay	
+John Jay was born December 12th, 1745. Representing the point of view of the American merchants in protesting British restrictions on the commercial activities of the colonies, he was elected to the Continental Congress in 1774 and again in 1775. Jay did not favor independence from Britain. However, once the revolution was undertaken, Jay was an ardent supporter of the new nation. He drafted the first constitution of New York State and was appointed chief justice of the state in 1777. In the following year, he was again elected to the Continental Congress and was chosen as its president. The ineffectiveness of the Articles of Confederation led Jay to become a proponent of a strong national government and one of the primary authors of The Federalist Papers. After the Constitution was ratified, George Washington nominated John Jay as the chief justice, and he was confirmed two days later. Jay was instrumental in establishing the Supreme Court as a reasoned and honorable institution. He later retired from service in the Supreme Court and was elected (without even running) Governor of New York in 1795 where he proved to be a popular and productive governor.
 
-Abraham Baldwin
-Georgia
+Thomas Jefferson	
+Thomas Jefferson was born in Virginia in 1743. As a Virginia planter, he was also a delegate to the House of Burgesses and to the First and Second Continental Congress. He was selected to draft the Declaration of Independence and is considered the author of the Declaration of Independence. Next, he was a U.S. Minister to France. Jefferson was the first Secretary of State under George Washington and Vice-President under John Adams. As Leader of the Democratic-Republican Party, in 1801 he became the third President of the United States. As President, he was responsible for the Louisiana Purchase in 1803 and the Embargo Act of 1807. In 1804, Jefferson sent the Lewis and Clark Expedition to explore the new territory purchased from France which produced a wealth of scientific and geographical knowledge. He died on July 4, 1826, the fiftieth anniversary of the Declaration of Independence. His self-written epitaph read: “Here was buried Thomas Jefferson, Author of the Declaration of American Independence of the Statute of Virginia for religious freedom & Father of the University of Virginia.”
 
+James Madison	
+James Madison was born in Virginia in 1751. Madison was a delegate to the Philadelphia Constitutional Convention. He is widely considered the “Father of the Constitution” for his many contributions to the basic structure of our government. He used Montesquieu’s idea for separation of powers but also added a system of checks and balances to assure no one branch was too powerful. He authored the Virginia Plan, which proposed representation in the Legislative Branch based on population but was willing to compromise by creating a bicameral legislature. He supported ratification of the new U.S. Constitution and wrote over a third of The Federalist Papers, promoting its ratification. He helped frame the Bill of Rights. Then he became Secretary of State under Thomas Jefferson. He was the fourth President of the United States. During his presidency, the United States fought Great Britain in the War of 1812.
 
-Yes
-John Banister
-Virginia
+George Washington	
+George Washington was born in Virginia in 1732. He was a Virginia planter and a delegate to the House of Burgesses. Washington fought during the French and Indian War and was a delegate to the Continental Congress. He was chosen Commander of the Continental Army during the American Revolution. Later, he became the President of the Philadelphia Constitutional Convention in 1787 and the First President of the United States. During his presidency, his foreign policy was to remain neutral. He warned the country against European entanglement and political parties in his Farewell Address. George Washington is referred to as the “Father of our Country.”
 
-Yes
+The First Continental Congress
+The First Continental Congress met briefly in Philadelphia, Pennsylvania in 1774. It consisted of 56 delegates from 12 of the Thirteen Colonies that later would become the United States of America.
 
-Josiah Bartlett
-New Hampshire
-Yes
-Yes
+The delegates were elected by their respective colonial assemblies and included George Washington (soon to be appointed commander of the army), Patrick Henry, and John Adams. Other notable delegates included Samuel Adams from Massachusetts, John Dickinson from Pennsylvania, and John Jay from New York.
 
-Richard Bassett
-Delaware
+A major influence at this meeting was James Wilson. In addition to signing the Declaration of Independence, Wilson was elected two times to the Continental Congress as a representative of Pennsylvania. Wilson was a member of the delegation, the Committee of Detail that wrote the first draft of the Constitution. James Wilson shared a similar philosophy to James Madison, and they allied to work for the Constitution's ratification. His input and campaign for the Constitution led Pennsylvania to be the second state to sign it. Due to his mastery of legal theory, he was one of the six original justices appointed by George Washington to the Supreme Court.
 
+Roger Sherman, representative from Connecticut, was an early American statesman and lawyer, as well as a Founding Father of the United States. He is the only person to have signed all four state main documents of the United States: the Continental Association, the Declaration of Independence, the Articles of Confederation, and the Constitution. Along with James Wilson, he proposed the Three-Fifths Compromise, which counted slaves as three-fifths of a person for the purposes of representation in the United States House of Representatives.
 
-Yes
-Gunning Bedford Jr.
-Delaware
+George Mason was elected as a delegate to the Constitutional Convention from Virginia. He participated in the process of drafting the Constitution for months until he concluded that he did not fully support the Constitution because it did not contain a bill of rights. Mason also wanted to immediately end slavery. Although his ideas were not incorporated during this time, James Madison, a fellow Virginian and Founding Father, was intent to include a bill of rights during the First Congress in 1789.
 
+This congress, in addition to formulating appeals to the British crown, established the Continental Association to administer boycott actions against Britain.
 
-Yes
-John Blair Jr.
-Virginia
+The Second Continental Congress
+When the Second Continental Congress came together on May 10, 1775, it was, in effect, a reconvening of the First Congress. Many of the same 56 delegates who attended the first meeting participated in the second.
 
+Notable new arrivals included Benjamin Franklin and Robert Morris of Pennsylvania, John Hancock of Massachusetts, and John Witherspoon of New Jersey. Hancock was elected president of the second Continental Congress two weeks into the session when Peyton Randolph was summoned back to Virginia to preside over the House of Burgesses.
 
-Yes
-William Blount
-North Carolina
+Thomas Jefferson replaced Randolph in the Virginia congressional delegation. The second Congress adopted the Declaration of Independence. Witherspoon was the only active clergyman to sign the Declaration. He also signed the Articles of Confederation and attended the Constitutional Convention in New Jersey (1787) that ratified the Federal Constitution.
 
+The newly founded country of the United States had to create a new government to replace the British Parliament. The Americans adopted the Articles of Confederation, a declaration that established a national government made up of a one-house legislature. Its ratification by all thirteen colonies gave the second Congress a new name: the Congress of the Confederation. They met from 1781 to 1789.
 
-Yes
-Carter Braxton
-Virginia
-Yes
+The Constitutional Convention
+The Constitutional Convention took place from May 14 to September 17, 1787, in Philadelphia, Pennsylvania. It was held to address problems in governing the United States, which had been operating under the Articles of Confederation following independence from Great Britain.
 
+Although the convention was intended to revise the Articles of Confederation, the intention from the outset of many of its proponents, chief among them James Madison and Alexander Hamilton, was to create a new government rather than fix the existing one. The delegates elected George Washington to preside over the convention. The result of the convention was the United States Constitution, placing the convention among the most significant events in the history of the United States.
 
-David Brearley
-New Jersey
+The Framers of the Constitution
+The men who attended the Constitutional Convention included some of the most prominent men of the revolutionary and post-revolutionary era. George Washington attended the convention, and he was chosen to be its president. Also in attendance were Benjamin Franklin, Alexander Hamilton, James Madison, and Roger Sherman. As a group, the Framers of the Constitution were wealthier and better educated than the average American. Nearly all of them had experience in state and national governments, and many of them had fought in the revolution. They were truly the “cream of the crop” of leaders and thinkers in America during the pre-colonial and post-colonial periods
 
+The Missing Founders
+While the Constitutional Convention included many luminaries, several famous figures from the Revolutionary Era did not attend. Patrick Henry and Samuel Adams, for example, were not there, and they both expressed serious reservations about the final document. Thomas Jefferson was also absent because he was serving as the American ambassador to France at the time.
 
-Yes
-Jacob Broom
-Delaware
+Aims of the Framers
+The framers aimed to create a stronger national government that would better protect and enhance liberty by preventing tyranny. The experience of Shays’ Rebellion and the states’ inability to cooperate with one another had also proven the weaknesses of the Articles of Confederation. Many Founding Fathers were concerned that Great Britain and other potential foreign powers would take advantage of those weaknesses, but the framers did not want to abolish the state governments.
 
-
-Yes
-Pierce Butler
-South Carolina
-
-
-Yes
-Charles Carroll
-Maryland
-Yes
-
-
-Daniel Carroll
-Maryland
-
-Yes
-Yes
-Samuel Chase
-Maryland
-Yes
-
-
-Abraham Clark
-New Jersey
-Yes
-
-
-William Clingan
-Pennsylvania
-
-Yes
-
-George Clymer
-Pennsylvania
-Yes
-
-Yes
-John Collins
-Rhode Island
-
-Yes
-
-Francis Dana
-Massachusetts
-
-Yes
-
-Jonathan Dayton
-New Jersey
-
-
-Yes
-John Dickinson
-Delaware
-
-Yes
-Yes
-William Henry Drayton
-South Carolina
-
-Yes
-
-James Duane
-New York
-
-Yes
-
-William Duer
-New York
-
-Yes
-
-William Ellery
-Rhode Island
-Yes
-Yes
-
-William Few
-Georgia
-
-
-Yes
-Thomas Fitzsimons
-Pennsylvania
-
-
-Yes
-William Floyd
-New York
-Yes
-
-
-Benjamin Franklin
-Pennsylvania
-Yes
-
-Yes
-Elbridge Gerry
-Massachusetts
-Yes
-Yes
-
-Nicholas Gilman
-New Hampshire
-
-
-Yes
-Nathaniel Gorham
-Massachusetts
-
-
-Yes
-Button Gwinnett
-Georgia
-Yes
-
-
-Lyman Hall
-Georgia
-Yes
-
-
-Alexander Hamilton
-New York
-
-
-Yes
-John Hancock
-Massachusetts
-Yes
-Yes
-
-John Hanson
-Maryland
-
-Yes
-
-Cornelius Harnett
-North Carolina
-
-Yes
-
-Benjamin Harrison V
-Virginia
-Yes
-
-
-John Hart
-New Jersey
-Yes
-
-
-John Harvie
-Virginia
-
-Yes
-
-Joseph Hewes
-North Carolina
-Yes
-
-
-Thomas Heyward Jr.
-South Carolina
-Yes
-Yes
-
-Samuel Holten
-Massachusetts
-
-Yes
-
-William Hooper
-North Carolina
-Yes
-
-
-Stephen Hopkins
-Rhode Island
-Yes
-
-
-Francis Hopkinson
-New Jersey
-Yes
-
-
-Titus Hosmer
-Connecticut
-
-Yes
-
-Samuel Huntington
-Connecticut
-Yes
-Yes
-
-Richard Hutson
-South Carolina
-
-Yes
-
-Jared Ingersoll
-Pennsylvania
-
-
-Yes
-William Jackson
-South Carolina
-
-
-Yes
-Thomas Jefferson
-Virginia
-Yes
-
-
-Daniel of St. Thomas Jenifer
-Maryland
-
-
-Yes
-William Samuel Johnson
-Connecticut
-
-
-Yes
-Rufus King
-Massachusetts
-
-
-Yes
-John Langdon
-New Hampshire
-
-
-Yes
-Edward Langworthy
-Georgia
-
-Yes
-
-Henry Laurens
-South Carolina
-
-Yes
-
-Francis Lightfoot Lee
-Virginia
-Yes
-Yes
-
-Richard Henry Lee
-Virginia
-Yes
-Yes
-
-Francis Lewis
-New York
-Yes
-Yes
-
-Philip Livingston
-New York
-Yes
-
-
-William Livingston
-New Jersey
-
-
-Yes
-James Lovell
-Massachusetts
-
-Yes
-
-Thomas Lynch Jr.
-South Carolina
-Yes
-
-
-James Madison
-Virginia
-
-
-Yes
-Henry Marchant
-Rhode Island
-
-Yes
-
-John Mathews
-South Carolina
-
-Yes
-
-James McHenry
-Maryland
-
-
-Yes
-Thomas McKean
-Delaware
-Yes
-Yes
-
-Arthur Middleton
-South Carolina
-Yes
-
-
-Thomas Mifflin
-Pennsylvania
-
-
-Yes
-Gouverneur Morris[a]
-New York
-
-Yes
-
-Pennsylvania
-
-
-Yes
-Lewis Morris
-New York
-Yes
-
-
-Robert Morris
-Pennsylvania
-Yes
-Yes
-Yes
-John Morton
-Pennsylvania
-Yes
-
-
-Thomas Nelson Jr.
-Virginia
-Yes
-
-
-William Paca
-Maryland
-Yes
-
-
-Robert Treat Paine
-Massachusetts
-Yes
-
-
-William Paterson
-New Jersey
-
-
-Yes
-John Penn
-North Carolina
-Yes
-Yes
-
-Charles Pinckney
-South Carolina
-
-
-Yes
-Charles Cotesworth Pinckney
-South Carolina
-
-
-Yes
-George Read
-Delaware
-Yes
-
-Yes
-Joseph Reed
-Pennsylvania
-
-Yes
-
-Daniel Roberdeau
-Pennsylvania
-
-Yes
-
-Caesar Rodney
-Delaware
-Yes
-
-
-George Ross
-Pennsylvania
-Yes
-
-
-Benjamin Rush
-Pennsylvania
-Yes
-
-
-Edward Rutledge
-South Carolina
-Yes
-
-
-John Rutledge
-South Carolina
-
-
-Yes
-Nathaniel Scudder
-New Jersey
-
-Yes
-
-Roger Sherman
-Connecticut
-Yes
-Yes
-Yes
-James Smith
-Pennsylvania
-Yes
-
-
-Jonathan Bayard Smith
-Pennsylvania
-
-Yes
-
-Richard Dobbs Spaight
-North Carolina
-
-
-Yes
-Richard Stockton
-New Jersey
-Yes
-
-
-Thomas Stone
-Maryland
-Yes
-
-
-George Taylor
-Pennsylvania
-Yes
-
-
-Edward Telfair
-Georgia
-
-Yes
-
-Matthew Thornton
-New Hampshire
-Yes
-
-
-Nicholas Van Dyke
-Delaware
-
-Yes
-
-George Walton
-Georgia
-Yes
-
-
-John Walton
-Georgia
-
-Yes
-
-George Washington
-Virginia
-
-
-Yes
-John Wentworth Jr.
-New Hampshire
-
-Yes
-
-William Whipple
-New Hampshire
-Yes
-
-
-John Williams
-North Carolina
-
-Yes
-
-William Williams
-Connecticut
-Yes
-
-
-Hugh Williamson
-North Carolina
-
-
-Yes
-James Wilson
-Pennsylvania
-Yes
-
-Yes
-John Witherspoon
-New Jersey
-Yes
-Yes
-
-Oliver Wolcott
-Connecticut
-Yes
-Yes
-
-George Wythe
-Virginia
-Yes
-
-
-Other delegates[edit]
-The 55 delegates who attended the Constitutional Convention are referred to as framers. Of these, the 16 listed below did not sign the document.[46] Three refused, while the remainder left early, either in protest of the proceedings or for personal reasons.[47][48] Nevertheless, some sources regard all framers as founders, including those who did not sign:[22][49]
-	•	William Richardson Davie, North Carolina
-	•	Oliver Ellsworth, Connecticut
-	•	Elbridge Gerry, Massachusetts *
-	•	William Houston, New Jersey
-	•	William Houstoun, Georgia
-	•	John Lansing Jr., New York
-	•	Alexander Martin, North Carolina
-	•	Luther Martin, Maryland
-	•	George Mason, Virginia *
-	•	James McClurg, Virginia
-	•	John Francis Mercer, Maryland
-	•	William Pierce, Georgia
-	•	Edmund Randolph, Virginia *
-	•	Caleb Strong, Massachusetts
-	•	George Wythe, Virginia
-	•	Robert Yates, New York
-(*) Randolph, Mason, and Gerry were the only three present at the Constitution's adoption who refused to sign.
-Additional Founding Fathers[edit]
-In addition to the signers and Framers of the founding documents and one of the seven notable leaders previously mentioned—John Jay—the following are regarded as founders based on their contributions to the creation and early development of the new nation:
-	•	Elias Boudinot, New Jersey representative in the Continental Congress, Congress of the Confederation (president 1782–1783), and the first three U.S. Congresses. Boudinot was director of the U.S. Mint under presidents Washington, Adams, and Jefferson, and also was the founding president of the American Bible Society.[50]
-	•	Aaron Burr, vice president under Jefferson[51]
-	•	George Clinton, first governor of New York, 1777–1795, served again from 1801 to 1805, and was the fourth vice president of the US, 1805–1812. He was an anti-Federalist advocate of the Bill of Rights.[52]
-	•	Patrick Henry, gifted orator, known for his famous quote, "Give me liberty or give me death!",[53] served in the First Continental Congress in 1774 and briefly in the Second Congress in 1775 before returning to Virginia to lead its militia. He then completed terms as the first and sixth governor of Virginia, 1776–1779 and 1784–1786.[54]
-	•	Esek Hopkins, commander-in-chief of the Continental Navy[55]
-	•	Henry Knox served as chief artillery officer in most of Washington's campaigns. His earliest achievement was the capture of over 50 pieces of artillery, primarily cannons, at New York's Fort Ticonderoga, one of the keys to Washington's capture of Boston in early 1776. Knox became the first secretary of war under the U.S. Constitution in 1789.[25]
-	•	Gilbert du Motier, Marquis de Lafayette, French Marquis who became a Continental Army general.[56] Served without pay, brought a ship to America, outfitted for war, provided clothing and other provisions for the patriot cause, all at his own expense.[57]
-	•	Arthur Lee, diplomat who helped negotiate and signed the 1778 Treaty of Alliance with France, along with Benjamin Franklin and Silas Deane.
-	•	Robert R. Livingston, member of the Committee of Five that drafted the Declaration of Independence, 1776; first U.S. secretary of foreign affairs, 1781–1783, and first chancellor of New York, 1777–1801. He administered the presidential oath of office at the first inauguration of George Washington and with James Monroe negotiated the Louisiana Purchase as the minister to France.[58][59]
-	•	John Marshall served with George Washington at Valley Forge and later would be the first to refer to him as "the Father of his country". Appointed the fourth chief justice of the U.S. Supreme Court under John Adams, Marshall defined the authority of the court and ensured the stability of the federal government during the first three decades of the 19th century.[60][61][62][63]
-	•	James Monroe, elected to the Virginia legislature (1782); member of the Continental Congress (1783–1786);[64] fifth president of the United States for two terms (1817–1825);[65] Negotiated the Louisiana Purchase along with Robert Livingston.[66]
-	•	James Otis Jr., pamphleteer, one of the earliest proponents of patriotic causes, an opponent of slavery, and leader of Massachusetts' Committee of Correspondence, all in the 1760s.[67][68]
-	•	Thomas Paine, author of Common Sense and other influential pamphlets in the 1770s; sometimes referred to as "Father of the American Revolution".[60][69][70] While John Adams strongly criticized Paine for failing to see the need for a separation of powers in government, Common Sense proved crucial in building support for independence following its publication in January 1776.[71][72]
-	•	Timothy Pickering, Secretary of War, U.S. secretary of state, from Massachusetts. Fired by President John Adams; replaced by John Marshall.[73]
-	•	Thomas Pinckney, signer of the Pinckney's Treaty with Spain, fought as an officer in the Continental Army and served as a United States ambassador to Great Britain
-	•	Peyton Randolph, speaker of Virginia's House of Burgesses, president of the First Continental Congress, and a signer of the Continental Association.[74]
-	•	John Rogers, Maryland lawyer and judge, delegate to the Continental Congress who voted for the Declaration of Independence but fell ill before he could sign it.[75]
-	•	Charles Thomson, secretary of the Continental Congress from its formation to its final session, 1774–1789.[76]
-	•	Joseph Warren, respected physician and architect of the Revolutionary movement, known as the "Founding Martyr" for his death at the Battle of Bunker Hill, drafted the Suffolk Resolves in response to the Intolerable Acts.[77]
-	•	"Mad Anthony" Wayne, a prominent army general during the Revolutionary War.[60][78]
-	•	Thomas Willing, delegate to the Continental Congress from Pennsylvania, the first president of the Bank of North America, and the first president of the First Bank of the United States[79]
-	•	Henry Wisner, New York Continental Congress delegate who voted for the Declaration of Independence but left Philadelphia before the signing.
+This was a time in American history in which most Americans felt more loyalty toward their state government than to Congress or any other potential form of national government. A decentralized system with a strong local government made sense for the operation of a large nation such as the United States.
