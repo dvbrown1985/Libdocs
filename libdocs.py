@@ -78,10 +78,10 @@ with container_x:
     st.markdown("""
     <div> 
         <p style="font-size:17px; line-height:1.6; color:red;">
-            LeXi is designed to converse with you about the Declaration of Independence, the US Constitution, and the insights of the Founding Fathers.
+            LibDocs (short for Liberty Documents) is designed to converse with you about the Declaration of Independence and the US Constitution.
         </p>
         <p style="font-size:17px; line-height:1.6;">
-            Imagine you have a giant library. Finding the right book can be tricky! This system uses a special "brain" (the cross-encoder) to understand the meaning of your search and a clever organizer (FAISS) to help it find the best matches within the Founder's documents. This makes searching more accurate, like having a librarian who truly understands what you're looking for. 
+             
         </p>
         <p style="font-size:17px; line-height:1.6; color:#48acd2;">
             Use the input bar below 👇 to get started.
@@ -104,8 +104,8 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     query_embedding = embedder.encode([query], normalize_embeddings=True)
 
     # Retrieve Relevant Chunks
-    print("Retrieving the top 3 chunks using FAISS...")
-    _, indices = index.search(np.array(query_embedding), k=3)
+    print("Retrieving the top 5 chunks using FAISS...")
+    _, indices = index.search(np.array(query_embedding), k=5)
     retrieved_texts = [texts[i].page_content for i in indices[0]]
 
     # Rerank Retrieved Chunks
@@ -131,11 +131,13 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
 
     **I. Introduction:** Begin with a concise introductory paragraph (1-2 sentences) that clearly defines the topic raised by the user's query.
 
-    **II. Excerpt from Founding Documents/Retrieved Context:** Present the most relevant excerpts from the retrieved context that directly relates to the user's query. If the retrieved context contains multiple relevant exceerpts, be sure to include them. This MUST be formatted as a block quote. If the excerpt contains newline characters (`\n`), preserve them by placing each segment on a new line within the block quote. For example:
+    **II. Excerpt from Founding Documents/Retrieved Context:** Present the relevant excerpts from the retrieved context that directly relates to the user's query. If the retrieved context contains multiple relevant exceerpts, be sure to include each excerpt. This MUST be formatted as a block quote. If the excerpt contains newline characters (`\n`), preserve them by placing each segment on a new line within the block quote. For example:
 
-    > "This is the first line of the quote.\nThis is the second line of the quote."
+    > "This is the first line of quote #1.\nThis is the second line of quote #1."
 
-    If no relevant excerpt exists in the provided context, state clearly: "No relevant excerpt found in the provided context."
+    > "This is the first line of quote #2.\nThis is the second line of quote #2."
+
+    If no relevant excerpts exists in the provided context, state clearly: "No relevant excerpt found in the provided documents. Please adjust your query and try again."
 
     **III. Analysis and Elaboration:** Provide a detailed analysis of the excerpt and its relevance to the user's query. This section MUST be formatted as a bulleted list with 4-5 bullet points. Each bullet point should offer a distinct insight or perspective.
 
