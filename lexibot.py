@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[20]:
-
-
 # Import necessary libraries
 import google.generativeai as genai  # Google Generative AI library for AI model interaction
 from langchain_community.document_loaders import TextLoader
@@ -13,7 +7,6 @@ import faiss  # Library for fast similarity search
 import numpy as np  # Numerical computations
 import streamlit as st  # Web app framework
 from PIL import Image  # Image processing library
-from my_custom_class import MyCustomClass 
 
 # --- 1. Streamlit App Configuration ---
 st.set_page_config(
