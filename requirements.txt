@@ -1,0 +1,8 @@
+faiss_cpu
+langchain
+numpy
+Pillow
+protobuf
+sentence_transformers
+streamlit
+google-generativeai
