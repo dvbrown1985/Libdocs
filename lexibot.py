@@ -77,7 +77,7 @@ with container_x:
             LeXi is designed to converse with you about the Declaration of Independence, the US Constitution, and the insights of the Founding Fathers.
         </p>
         <p style="font-size:17px; line-height:1.6;">
-            You can ask questions like, Tell me about Executive Power What is the ninth amendment? and Who were the founding fathers? 
+            Imagine you have a giant library. Finding the right book can be tricky! This system uses a special "brain" (the cross-encoder) to understand the meaning of your search and a clever organizer (FAISS) to help it find the best matches within the Founder's documents. This makes searching more accurate, like having a librarian who truly understands what you're looking for. 
         </p>
         <p style="font-size:17px; line-height:1.6; color:#48acd2;">
             🇺🇸 Use the input bar below to get started.
