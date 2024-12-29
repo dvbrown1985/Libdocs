@@ -80,9 +80,6 @@ with container_x:
         <p style="font-size:17px; line-height:1.6; color:red;">
             LibDocs (short for Liberty Documents) is designed to converse with you about the Declaration of Independence and the US Constitution.
         </p>
-        <p style="font-size:17px; line-height:1.6;">
-             
-        </p>
         <p style="font-size:17px; line-height:1.6; color:#48acd2;">
             Use the input bar below 👇 to get started.
         </p>
