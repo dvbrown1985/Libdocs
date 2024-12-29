@@ -87,7 +87,7 @@ with container_x:
             LeXi is a shorter, friendlier form of Alexander, meaning 'defender of mankind,' much like how the Constitution protects our rights.
         </p>
         <p style="font-size:17px; line-height:1.6; color:#48acd2;">
-            🇺🇸 Use the input bar below to get started. 🇺🇸
+            🇺🇸 Use the input bar below to get started.
         </p>
     </div>
     """, unsafe_allow_html=True)
@@ -102,7 +102,7 @@ else:
     st.write("No messages in history yet.")
 
 # --- 12. Query Handling ---
-if query := st.chat_input("🗽"):
+if query := st.chat_input("🗽🇺🇸"):
     print('Embedding your query...')
     query_embedding = embedder.encode([query], normalize_embeddings=True)
 
