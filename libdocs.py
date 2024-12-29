@@ -59,7 +59,7 @@ GOOGLE_API_KEY = 'AIzaSyAfxmrmwhu62afqajL84gI5hta6LDUs9yc'
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # --- 8. Display Logo ---
-LOGO = "libdocs.jpeg"
+LOGO = "libdocs.jpg"
 image = Image.open(LOGO)
 container1 = st.container(border=True)
 with container1:
