@@ -13,6 +13,7 @@ import faiss  # Library for fast similarity search
 import numpy as np  # Numerical computations
 import streamlit as st  # Web app framework
 from PIL import Image  # Image processing library
+from my_custom_class import MyCustomClass 
 
 # --- 1. Streamlit App Configuration ---
 st.set_page_config(
