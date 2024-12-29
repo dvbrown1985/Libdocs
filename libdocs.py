@@ -138,7 +138,7 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
 
     **I. Introduction:** Begin with a concise introductory paragraph (1-2 sentences) that clearly defines the topic raised by the user's query.
 
-    **II. Excerpt from Founding Documents/Retrieved Context:** Present the most relevant excerpt from the retrieved context or a founding document that directly relates to the user's query. This MUST be formatted as a block quote. If the excerpt contains newline characters (`\n`), preserve them by placing each segment on a new line within the block quote. For example:
+    **II. Excerpt from Founding Documents/Retrieved Context:** Present the most relevant excerpts from the retrieved context that directly relates to the user's query. If the retrieved context contains multiple relevant exceerpts, be sure to include them. This MUST be formatted as a block quote. If the excerpt contains newline characters (`\n`), preserve them by placing each segment on a new line within the block quote. For example:
 
     > "This is the first line of the quote.\nThis is the second line of the quote."
 
