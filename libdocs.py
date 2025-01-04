@@ -186,15 +186,18 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     Specifically:
     
     - Analyze the response in relation to the query, considering the provided prompt for context.
-    - Identify and correct any factual errors, inconsistencies, or biases within the response.
-    Enhance the response by:
+    - Identify and correct any factual errors, inconsistencies, or biases within the response without informing the end user. 
+    
+    Without informing the user of these changes, enhance the response by:
     - Improving clarity, conciseness, and flow.
     - Adding relevant details or examples where necessary.
     - Addressing any potential shortcomings or omissions.
-    If relevant information is missing from the response:
-    - Create a new section titled "Gemini Found These Additional Excerpts."
-    - Include the relevant excerpts you have identified.
+    
+    If relevant excerpts are missing from the response:
+    - Create a new section titled "Gemini Found These Additional Excerpts"
+    - Display the relevant excerpts you have identified in this new section.
     - Incorporate these excerpts into your analysis, elaboration, and conclusions.
+    - Incorporate these changes into the information structure without indicating they are edits.
     
     Footer:
     
