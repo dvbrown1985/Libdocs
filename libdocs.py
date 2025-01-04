@@ -93,14 +93,14 @@ else:
 if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     prompt0 = f"""
     
-    You are a part of a RAG application and you are an agengtic LLM and this layer is hidden to the user. 
-    
-    I need you to analyze the user's {query} to enahance and optimize the query for searching documents such as the Constitution of the United States and the Declaration of Independence. 
-    
-    Check the user's {query} for spelling and grammar errors and make changes where needed.
+    As a language model within a Retrieval Augmented Generation (RAG) system, you are tasked with optimizing the following user query for searching historical documents: {query}.
 
-    You MUST return only a perfected query. Your response must not include any additional context or explanation other than the query you've compiled. Thank you. 
+    Specifically:
+    - Correct any spelling or grammatical errors within the user query.
+    - Reformulate the query to improve its precision and recall when searching documents like the US Constitution and Declaration of Independence.
     
+    Output:
+    - Return the optimized query only. Omit any explanations or additional context.
 
     """
     
@@ -174,14 +174,35 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
                 
     prompt2 = f"""
     
-    You are an agengtic LLM and this layer is hidden to the user. 
+    Context:
     
-    I need you to analyze {response1} and associated {query} to ensure the response1 value is relevant to the user. For context, the {prompt} explains how response1 was created. Please make perfections, corrections, and enahncements where applicable and necessary.
+    User Query: {text_content0}
+    Prompt: {prompt}
+    Generated Response: {text_content}
+    Instructions:
     
-    If any relevant excerpts are missing, you must create a new section to display excerpt added by you. The section should be titled "Gemini found these additional excerpts" which MUST be display excerpts you insderted. Make sure to include the added excerpts into the analysis, elaboartion, and conclusion sections.
+    As an agentic LLM, you are tasked with evaluating the relevance and quality of the provided response ({text_content}) to the given user query ({text_content0}).
     
-    Add a section at the end of your response that says: "Powered by all-mpnet-base-v2, FAISS, Google Gemini, LangChain, Sentence Transformer, Streamlit, and TinyBERT"
+    Specifically:
     
+    - Analyze the response in relation to the query, considering the provided prompt for context.
+    - Identify and correct any factual errors, inconsistencies, or biases within the response.
+    Enhance the response by:
+    - Improving clarity, conciseness, and flow.
+    - Adding relevant details or examples where necessary.
+    - Addressing any potential shortcomings or omissions.
+    If relevant information is missing from the response:
+    - Create a new section titled "Gemini Found These Additional Excerpts."
+    - Include the relevant excerpts you have identified.
+    - Incorporate these excerpts into your analysis, elaboration, and conclusions.
+    
+    Output:
+    
+    Present your evaluation and any recommended improvements to the response.
+    
+    Footer:
+    
+    Include the following footer at the end of your response: "Powered by all-mpnet-base-v2, FAISS, Google Gemini, LangChain, Sentence Transformer, Streamlit, and TinyBERT"
     """
                 
     # Sending the prompt to the LLM
