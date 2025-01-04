@@ -180,7 +180,7 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     
     If any relevant excerpts are missing, you must create a new section to display excerpt added by you. The section should be titled "Gemini found these additional excerpts" which MUST be display excerpts you insderted. Make sure to include the added excerpts into the analysis, elaboartion, and conclusion sections.
     
-    Add a section at the end of your response that says, "Powered by Google Gemini"
+    Add a section at the end of your response that says: "Powered by all-mpnet-base-v2, FAISS, Google Gemini, LangChain, Sentence Transformer, Streamlit, and TinyBERT"
     
     """
                 
