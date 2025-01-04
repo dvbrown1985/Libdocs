@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[4]:
-
-
-# Import necessary libraries
 import google.generativeai as genai  # Google Generative AI library for AI model interaction
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter  # Split text into smaller chunks
@@ -77,7 +71,7 @@ container_x = st.container(border=True)
 with container_x:
     st.markdown("""
     <div> 
-        <p style="font-size:17px; line-height:1.6; color:#48acd2;">
+        <p style="font-size:17px; line-height:1.6; color:red;">
             LibDocs (short for Liberty Documents) is designed to converse with you about the Declaration of Independence and the US Constitution.
         </p>
         <p style="font-size:17px; line-height:1.6; color:#48acd2;">
@@ -97,6 +91,30 @@ else:
 
 # --- 12. Query Handling ---
 if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
+    prompt0 = f"""
+    
+    You are a part of a RAG application and you are an agengtic LLM and this layer is hidden to the user. 
+    
+    I need you to analyze the user's {query} to enahance and optimize the query for searching documents such as the Constitution of the United States and the Declaration of Independence. 
+    
+    Check the user's {query} for spelling and grammar errors and make changes where needed.
+
+    You MUST return only a perfected query. Your response must not include any additional context or explanation other than the query you've compiled. Thank you. 
+    
+
+    """
+    
+    model = genai.GenerativeModel("gemini-1.5-flash-002")
+    response0 = model.generate_content(prompt0)
+        
+    # Chunking the response
+    for chunk in response0:
+        try:
+            text_content0 = chunk.candidates[0].content.parts[0].text #accessing the text response and storing it to a variable. 
+            print(text_content0)
+        except (KeyError, IndexError) as e:
+            print("Error extracting text:", e)
+    
     print('Embedding your query...')
     query_embedding = embedder.encode([query], normalize_embeddings=True)
 
@@ -117,24 +135,23 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
         st.markdown(query)
     
     with st.chat_message("assistant"):
-        message_placeholder = st.empty()
-        
-    # Define prompt for AI model
+        message_placeholder = st.empty() 
+
+    # Defining the prompt for Google Gemini LLM
+    
     prompt = f"""
     
-    You are a scholarly expert on the founding documents of the United States, including the Constitution, the Declaration of Independence, and the writings of the Founding Fathers. You are interacting with users who seek authoritative answers to their questions about this period. The user query is: "{query}", and the retrieved text is: "{context}".
+    You are a scholarly expert on the founding documents of the United States, including the Constitution, the Declaration of Independence, and the writings of the Founding Fathers. You are interacting with users who seek authoritative answers to their questions about this period. The user's query is: "{text_content0}", and the retrieved text is: "{context}".
 
     Your task is to provide a comprehensive and accurate response that directly addresses the user's query. Your response MUST adhere to the following strict structure:
 
     **I. Introduction:** Begin with a concise introductory paragraph (1-2 sentences) that clearly defines the topic raised by the user's query.
 
-    **II. Excerpt from Founding Documents/Retrieved Context:** Present the relevant excerpts from the retrieved context that directly relates to the user's query. If the retrieved context contains multiple relevant exceerpts, be sure to include each excerpt. This MUST be formatted as a block quote. If the excerpt contains newline characters (`\n`), preserve them by placing each segment on a new line within the block quote. For example:
+    **II. Excerpt from Founding Documents/Retrieved Context:** Present the most relevant excerpt from the retrieved context or a founding document that directly relates to the user's query. This MUST be formatted as a block quote. If the excerpt contains newline characters (`\n`), preserve them by placing each segment on a new line within the block quote. For example:
 
-    > "This is the first line of quote #1.\nThis is the second line of quote #1."
+    > "This is the first line of the quote.\nThis is the second line of the quote."
 
-    > "This is the first line of quote #2.\nThis is the second line of quote #2."
-
-    If no relevant excerpts exists in the provided context, state clearly: "No relevant excerpt found in the provided documents. Please adjust your query and try again."
+    If no relevant excerpt exists in the provided context, state clearly: "No relevant excerpt found in the provided context."
 
     **III. Analysis and Elaboration:** Provide a detailed analysis of the excerpt and its relevance to the user's query. This section MUST be formatted as a bulleted list with 4-5 bullet points. Each bullet point should offer a distinct insight or perspective.
 
@@ -144,18 +161,44 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     
     """
     
+    model = genai.GenerativeModel("gemini-1.5-flash-002")
+    response1 = model.generate_content(prompt)
+        
+    # Chunking the response
+    for chunk in response1:
+        try:
+            text_content = chunk.candidates[0].content.parts[0].text #accessing the text response and storing it to a variable. 
+            print(text_content)
+        except (KeyError, IndexError) as e:
+            print("Error extracting text:", e)
+                
+    prompt2 = f"""
+    
+    You are an agengtic LLM and this layer is hidden to the user. 
+    
+    I need you to analyze {response1} and associated {query} to ensure the response1 value is relevant to the user. For context, the {prompt} explains how response1 was created. Please make perfections, corrections, and enahncements where applicable and necessary.
+    
+    If any relevant excerpts are missing, you must create a new section to display excerpt added by you. The section should be titled "Gemini found these additional excerpts" which MUST be display excerpts you insderted. Make sure to include the added excerpts into the analysis, elaboartion, and conclusion sections.
+    
+    Add a section at the end of your response that says, "Powered by Google Gemini"
+    
+    """
+                
+    # Sending the prompt to the LLM
     with st.spinner("Generating response..."):
         model = genai.GenerativeModel("gemini-1.5-flash-002")
-        response = model.generate_content(prompt)
+        response2 = model.generate_content(prompt2)
         
-        for chunk in response:
+        # Chunking the response
+        for chunk in response2:
             try:
-                text_content = chunk.candidates[0].content.parts[0].text
-                print(text_content)
+                text_content1 = chunk.candidates[0].content.parts[0].text #accessing the text response and storing it to a variable. 
+                print(text_content1)
             except (KeyError, IndexError) as e:
                 print("Error extracting text:", e)
         
-        message_placeholder.markdown(text_content)
+        # The empty placeholder widget is updated with the LLM response.
+        message_placeholder.markdown(text_content1)
     
-    st.session_state.messages.append({"role": "assistant", "content": text_content})
-
+    # Appending the response to the message history container as the assistant role.   
+    st.session_state.messages.append({"role": "assistant", "content": text_content1})
