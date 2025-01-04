@@ -196,10 +196,6 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     - Include the relevant excerpts you have identified.
     - Incorporate these excerpts into your analysis, elaboration, and conclusions.
     
-    Output:
-    
-    Present your evaluation and any recommended improvements to the response.
-    
     Footer:
     
     Include the following footer at the end of your response: "Powered by all-mpnet-base-v2, FAISS, Google Gemini, LangChain, Sentence Transformer, Streamlit, and TinyBERT"
