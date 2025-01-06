@@ -89,6 +89,14 @@ else:
 
 # --- 12. Query Handling ---
 if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
+    
+    st.session_state.messages.append({"role": "user", "content": query})
+    with st.chat_message("user"):
+        st.markdown(query)
+        
+    with st.chat_message("assistant"):
+        message_placeholder = st.empty() 
+    
     prompt0 = f"""
     
     As a language model within a Retrieval Augmented Generation (RAG) system, you are tasked with optimizing the following user query for searching historical documents: {query}.
@@ -130,13 +138,6 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
         context = "\n".join(sorted_texts)
         print("\nTop Retrieved Context:\n")
         print(context)
-        
-        st.session_state.messages.append({"role": "user", "content": query})
-        with st.chat_message("user"):
-            st.markdown(query)
-        
-        with st.chat_message("assistant"):
-            message_placeholder = st.empty() 
         
         # Defining the prompt for Google Gemini LLM
         
@@ -211,8 +212,6 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
                 print(text_content1)
             except (KeyError, IndexError) as e:
                 print("Error extracting text:", e)
-
-        st.success("Done!")
     
     # The empty placeholder widget is updated with the LLM response.
     message_placeholder.markdown(text_content1)
