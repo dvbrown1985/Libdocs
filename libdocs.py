@@ -7,6 +7,7 @@ import faiss  # Library for fast similarity search
 import numpy as np  # Numerical computations
 import streamlit as st  # Web app framework
 from PIL import Image  # Image processing library
+import time
 
 # --- 1. Streamlit App Configuration ---
 st.set_page_config(
@@ -212,9 +213,34 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
                 print(text_content1)
             except (KeyError, IndexError) as e:
                 print("Error extracting text:", e)
-    
-    # The empty placeholder widget is updated with the LLM response.
-    message_placeholder.markdown(text_content1)
+
+        response2 = model.generate_content(prompt2)
+
+        # Placeholder for message display
+        message_placeholder = st.empty()
+        
+        # Initialize full response text
+        full_text = ""  
+        
+        # Chunking the response
+        for chunk in response2:
+            try:
+                text_content1 = chunk.candidates[0].content.parts[0].text
+                full_text += text_content1  # Accumulate response text
+                print(text_content1)
+            except (KeyError, IndexError, AttributeError) as e:
+                st.error(f"Error extracting text: {e}")
+                print("Error extracting text:", e)
+        
+        # Typewriter Effect in Markdown
+        if full_text:  # Ensure there's content to display
+            typed_text = ""
+            for char in full_text:
+                typed_text += char  # Add one character at a time
+                message_placeholder.markdown(typed_text)
+                time.sleep(0.05)  # Adjust typing speed here
+        else:
+            st.warning("No content to display from the response.")
     
     # Appending the response to the message history container as the assistant role.   
     st.session_state.messages.append({"role": "assistant", "content": text_content1})
