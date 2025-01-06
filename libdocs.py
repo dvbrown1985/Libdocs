@@ -219,4 +219,4 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     # Appending the response to the message history container as the assistant role.   
     st.session_state.messages.append({"role": "assistant", "content": text_content1})
 
-st.write("Powered by all-mpnet-base-v2, FAISS, Google Gemini, LangChain, Sentence Transformer, Streamlit, and TinyBERT")
+st.write("Powered by the all-mpnet-base-v2 model, FAISS, Google Gemini, Keras, LangChain, Sentence Transformer, Streamlit, and TinyBERT")
