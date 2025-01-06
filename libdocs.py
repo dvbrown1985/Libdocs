@@ -53,9 +53,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 LOGO = "libdocs.jpg"
 image = Image.open(LOGO)
 container1 = st.container(border=True)
-with container1:
-    st.image(image, clamp=False, channels="RGB", use_container_width=True)
-
+st.image(image, clamp=False, channels="RGB", use_container_width=True)
 st.logo(LOGO)
 
 # --- 9. Disclaimer Section ---
@@ -199,12 +197,9 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
         - Display the relevant excerpts you have identified in this new section.
         - Incorporate these excerpts into your analysis, elaboration, and conclusions.
         - Incorporate these changes into the information structure without indicating they are edits.
-        
-        Footer:
-        
-        Include the following footer at the end of your response: "Powered by all-mpnet-base-v2, FAISS, Google Gemini, LangChain, Sentence Transformer, Streamlit, and TinyBERT"
-        """
                     
+        """
+        
         # Sending the prompt to the LLM
         model = genai.GenerativeModel("gemini-1.5-flash-002")
         response2 = model.generate_content(prompt2)
@@ -222,3 +217,5 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
         
         # Appending the response to the message history container as the assistant role.   
         st.session_state.messages.append({"role": "assistant", "content": text_content1})
+
+st.write("Powered by all-mpnet-base-v2, FAISS, Google Gemini, LangChain, Sentence Transformer, Streamlit, and TinyBERT")
