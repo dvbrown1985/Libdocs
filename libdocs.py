@@ -159,7 +159,6 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     
     """
     
-    model = genai.GenerativeModel("gemini-1.5-flash-002")
     response1 = model.generate_content(prompt)
         
     # Chunking the response
@@ -200,7 +199,6 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     """
     
     # Sending the prompt to the LLM
-    model = genai.GenerativeModel("gemini-1.5-flash-002")
     response2 = model.generate_content(prompt2)
     
     # Chunking the response
