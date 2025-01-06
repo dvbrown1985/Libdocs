@@ -238,7 +238,7 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
             for char in full_text:
                 typed_text += char  # Add one character at a time
                 message_placeholder.markdown(typed_text)
-                time.sleep(0.0004)  # Adjust typing speed here
+                time.sleep(0.0001)  # Adjust typing speed here
         else:
             st.warning("No content to display from the response.")
     
