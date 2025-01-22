@@ -63,6 +63,8 @@ expander.write('''
     This is a prototype under development and may contain bugs or errors. 
     It is intended for testing and educational purposes only. 
     Please use this prototype with caution and at your own risk.
+
+    LibDocs is powered by the all-mpnet-base-v2 model, FAISS, Google Gemini, Keras, LangChain, Sentence Transformer, Streamlit, and TinyBERT.
 ''')
 
 # --- 10. Introduction Section ---
@@ -244,5 +246,3 @@ if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
     
     # Appending the response to the message history container as the assistant role.   
     st.session_state.messages.append({"role": "assistant", "content": text_content1})
-
-st.write("Powered by the all-mpnet-base-v2 model, FAISS, Google Gemini, Keras, LangChain, Sentence Transformer, Streamlit, and TinyBERT")
