@@ -71,7 +71,7 @@ with container_x:
     st.markdown("""
     <div> 
         <p style="font-size:17px; line-height:1.6; color:#48acd2;">
-            LibDocs (short for Liberty Documents) is designed to converse with you about the Declaration of Independence and the US Constitution.
+            LibDocs (short for Liberty Documents) is designed to converse with you about the Declaration of Independence, the Founding Fathers, and the US Constitution.
         </p>
         <p style="font-size:17px; line-height:1.6; color:#48acd2;">
             Use the input bar below 👇 to get started.
