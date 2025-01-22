@@ -64,7 +64,7 @@ expander.write('''
     It is intended for testing and educational purposes only. 
     Please use this prototype with caution and at your own risk.
 
-    LibDocs is powered by the all-mpnet-base-v2 model, FAISS, Google Gemini, Keras, LangChain, Sentence Transformer, Streamlit, and TinyBERT.
+    LibDocs is powered by the all-mpnet-base-v2 model, FAISS, Google Gemini, Keras, LangChain, Python, Sentence Transformer, Streamlit, and TinyBERT.
 ''')
 
 # --- 10. Introduction Section ---
