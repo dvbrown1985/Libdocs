@@ -88,7 +88,7 @@ if st.session_state.messages:
         with container2.chat_message(message["role"]):
             st.markdown(message["content"])
 else:
-    st.write("No messages in history yet.")
+    st.write("")
 
 # --- 12. Query Handling ---
 if query := st.chat_input(" 🗽 🇺🇸 🦅 "):
