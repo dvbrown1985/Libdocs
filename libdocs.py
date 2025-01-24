@@ -100,7 +100,7 @@ else:
     st.write("")
 
 # --- 12. Query Handling ---
-if query := st.chat_input("🗽 🇺🇸 🦅Input your question here🦅 🇺🇸 🗽"):
+if query := st.chat_input("🗽 🇺🇸 🦅 Input your question here 🦅 🇺🇸 🗽"):
     
     st.session_state.messages.append({"role": "user", "content": query})
     with st.chat_message("user"):
