@@ -67,7 +67,13 @@ expander.write('''
     It is intended for testing and educational purposes only. 
     Please use this prototype with caution and at your own risk.
 
-    LibDocs is powered by Cross Encoder, FAISS, Google Gemini, Keras, LangChain, Modern BERT, Python, Sentence Transformer, and Streamlit.
+    If you test the prototype, please note the following:
+
+    - The app might be rate-limited with sub-optimal performance due to free service and usage limitations.
+    
+    - Limits on the number of concurrent users are in effect.
+
+    LibDocs is powered by Cross Encoder, FAISS, Google Gemini, LangChain, Modern BERT, Python, Sentence Transformer, and Streamlit.
 ''')
 
 # --- 10. Introduction Section ---
