@@ -36,7 +36,8 @@ def get_embeddings_and_index(_texts):
 
 @st.cache_resource
 def get_reranker():
-    return CrossEncoder('cross-encoder/ms-marco-TinyBERT-L-2-v2')
+    return CrossEncoder('nomic-ai/modernbert-embed-base')
+    #return CrossEncoder('cross-encoder/ms-marco-TinyBERT-L-2-v2')
 
 texts = load_and_process_docs(["founding docs.txt"])
 embeddings, index = get_embeddings_and_index(texts)
@@ -66,7 +67,7 @@ expander.write('''
     It is intended for testing and educational purposes only. 
     Please use this prototype with caution and at your own risk.
 
-    LibDocs is powered by the all-mpnet-base-v2 model, FAISS, Google Gemini, Keras, LangChain, Python, Sentence Transformer, Streamlit, and TinyBERT.
+    LibDocs is powered by Cross Encoder, FAISS, Google Gemini, Keras, LangChain, Modern BERT, Python, Sentence Transformer, and Streamlit.
 ''')
 
 # --- 10. Introduction Section ---
