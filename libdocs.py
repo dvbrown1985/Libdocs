@@ -69,7 +69,7 @@ expander.write('''
 
     If you test the prototype, please note the following:
 
-    - The app might be rate-limited with sub-optimal performance due to free service and usage limitations.
+    - The app might be rate-limited with sub-optimal performance due to free services and usage limitations.
     
     - Limits on the number of concurrent users are in effect.
 
@@ -100,7 +100,7 @@ else:
     st.write("")
 
 # --- 12. Query Handling ---
-if query := st.chat_input("  🗽 🇺🇸 🦅  Input your question here  🦅 🇺🇸 🗽  "):
+if query := st.chat_input("🗽 🇺🇸 🦅Input your question here🦅 🇺🇸 🗽"):
     
     st.session_state.messages.append({"role": "user", "content": query})
     with st.chat_message("user"):
