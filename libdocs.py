@@ -27,7 +27,8 @@ def load_and_process_docs(files):
 
 @st.cache_resource
 def get_embeddings_and_index(_texts):
-    embedder = SentenceTransformer('all-mpnet-base-v2')
+    #embedder = SentenceTransformer('all-mpnet-base-v2')
+    embedder = SentenceTransformer('nomic-ai/modernbert-embed-base')
     embeddings = embedder.encode([t.page_content for t in _texts], normalize_embeddings=True)
     index = faiss.IndexFlatIP(embeddings.shape[1])
     index.add(np.array(embeddings))
