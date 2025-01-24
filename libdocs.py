@@ -41,7 +41,8 @@ def get_reranker():
 texts = load_and_process_docs(["founding docs.txt"])
 embeddings, index = get_embeddings_and_index(texts)
 reranker = get_reranker()
-embedder = SentenceTransformer('all-mpnet-base-v2')
+embedder = SentenceTransformer('nomic-ai/modernbert-embed-base')
+#embedder = SentenceTransformer('all-mpnet-base-v2')
 
 # --- 6. Initialize Streamlit Session State ---
 if "messages" not in st.session_state:
