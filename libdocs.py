@@ -84,9 +84,6 @@ with container_x:
         <p style="font-size:17px; line-height:1.6; color:#48acd2;">
             LibDocs (short for Liberty Documents) is designed to converse with you about the Declaration of Independence, the Founding Fathers, and the US Constitution.
         </p>
-        <p style="font-size:17px; line-height:1.6; color:#48acd2;">
-            Let's get started 👇 👇 
-        </p>
     </div>
     """, unsafe_allow_html=True)
 
