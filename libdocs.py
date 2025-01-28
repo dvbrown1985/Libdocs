@@ -63,9 +63,7 @@ st.logo(LOGO)
 # --- 9. Disclaimer Section ---
 expander = st.expander("Disclaimer")
 expander.write('''
-    This is a prototype under development and may contain bugs or errors. 
-    It is intended for testing and educational purposes only. 
-    Please use this prototype with caution and at your own risk.
+    This is a prototype under development and may contain bugs or errors. It is intended for educational and research purposes only. Please use this prototype at your own risk.
 
     If you test the prototype, please note the following:
 
@@ -74,6 +72,8 @@ expander.write('''
     - Limits on the number of concurrent users are in effect.
 
     LibDocs is powered by Cross Encoder, FAISS, Google Gemini, LangChain, Modern BERT, Python, Sentence Transformer, and Streamlit.
+
+    Except for quoted excerpts from the US Constitution, Declaration of Independence, and Founding Father information, the generated output (introduction, analysis, conclusions, and supplemental references) is created by the Gemini LLM.
 ''')
 
 # --- 10. Introduction Section ---
