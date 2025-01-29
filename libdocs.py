@@ -21,7 +21,7 @@ def load_and_process_docs(files):
     documents = []
     for file in files:
         documents.extend(TextLoader(file).load())  # Flatten the loaded documents
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=300)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=2500, chunk_overlap=500)
     texts = text_splitter.split_documents(documents)
     return texts
 
