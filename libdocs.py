@@ -119,7 +119,7 @@ if query := st.chat_input("🗽 🇺🇸  Input your question here  🇺🇸 �
 
     """
     
-    model = genai.GenerativeModel("gemini-1.5-flash-002")
+    model = genai.GenerativeModel("gemini-2.0-flash-exp")
     
     with st.spinner('Generating response...'):
 
