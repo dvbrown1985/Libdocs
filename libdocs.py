@@ -73,7 +73,7 @@ expander.write('''
 
     LibDocs is powered by Cross Encoder, FAISS, Google Gemini, LangChain, Modern BERT, Python, Sentence Transformer, and Streamlit.
 
-    Except for quoted excerpts from the US Constitution, Declaration of Independence, and Founding Father information, the generated output (introduction, analysis, conclusions, and supplemental references) is created by the Gemini 1.5 LLM.
+    Except for quoted excerpts from the US Constitution, Declaration of Independence, and Founding Father information, the generated output (introduction, analysis, conclusions, and supplemental references) is created by the Gemini 2.0 experimental LLM.
 ''')
 
 # --- 10. Introduction Section ---
