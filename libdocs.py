@@ -38,7 +38,7 @@ embedder, reranker, index = get_models_and_index(texts)
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-GOOGLE_API_KEY = 'YOUR_API_KEY_HERE'
+GOOGLE_API_KEY = 'AIzaSyAPda5zKTYR1ieSBJRu5trrEZOq_Qc5C5w'
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
