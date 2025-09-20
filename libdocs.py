@@ -71,62 +71,63 @@ with container_intro:
     </div>
     """, unsafe_allow_html=True)
 
-container_chat = st.container(border=True, height=400)
-with container_chat:
-    for message in st.session_state.messages:
-        with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+if st.session_state.messages:
+    container_chat = st.container(border=True, height=400)
+    with container_chat:
+        for message in st.session_state.messages:
+            with st.chat_message(message["role"]):
+                st.markdown(message["content"])
 
 if query := st.chat_input("🗽 🇺🇸  Input your question here  🇺🇸 🗽"):
     
     st.session_state.messages.append({"role": "user", "content": query})
-    with container_chat:
-        with st.chat_message("user"):
-            st.markdown(query)
+    with st.chat_message("user"):
+        st.markdown(query)
             
-    with container_chat:
-        with st.chat_message("assistant"):
-            message_placeholder = st.empty()
-            full_text = ""
+    with st.chat_message("assistant"):
+        message_placeholder = st.empty()
+        full_text = ""
 
-            with st.spinner('Thinking...'):
-                prompt0 = f"Optimize the following user query for searching historical documents like the US Constitution: '{query}'. Return only the optimized query."
-                response0 = model.generate_content(prompt0)
-                optimized_query = response0.text
-                
-                query_embedding = embedder.encode([optimized_query], normalize_embeddings=True)
-                _, indices = index.search(np.array(query_embedding), k=5)
-                retrieved_texts = [texts[i].page_content for i in indices[0]]
-                
-                rerank_scores = reranker.predict([(optimized_query, text) for text in retrieved_texts])
-                sorted_texts = [text for _, text in sorted(zip(rerank_scores, retrieved_texts), reverse=True)]
-                context = "\n---\n".join(sorted_texts[:3])
+        with st.spinner('Thinking...'):
+            prompt0 = f"Optimize the following user query for searching historical documents like the US Constitution: '{query}'. Return only the optimized query."
+            response0 = model.generate_content(prompt0)
+            optimized_query = response0.text
+            
+            query_embedding = embedder.encode([optimized_query], normalize_embeddings=True)
+            _, indices = index.search(np.array(query_embedding), k=5)
+            retrieved_texts = [texts[i].page_content for i in indices[0]]
+            
+            rerank_scores = reranker.predict([(optimized_query, text) for text in retrieved_texts])
+            sorted_texts = [text for _, text in sorted(zip(rerank_scores, retrieved_texts), reverse=True)]
+            context = "\n---\n".join(sorted_texts[:3])
 
-                prompt = f"""
-                You are a scholarly expert on the founding documents of the United States. Your task is to provide a comprehensive and accurate response to the user's query based on the provided context.
+            prompt = f"""
+            You are a scholarly expert on the founding documents of the United States. Your task is to provide a comprehensive and accurate response to the user's query based on the provided context.
 
-                User's Query: "{optimized_query}"
-                
-                Retrieved Context:
-                ---
-                {context}
-                ---
+            User's Query: "{optimized_query}"
+            
+            Retrieved Context:
+            ---
+            {context}
+            ---
 
-                Provide a direct and well-structured answer. Use markdown for formatting, including bolding for key terms, blockquotes for excerpts, and bullet points for analysis. Start your response directly without preamble.
-                """
-                
-                response_stream = model.generate_content(prompt, stream=True)
-                
-                try:
-                    for chunk in response_stream:
-                        if chunk.text:
-                            full_text += chunk.text
-                            message_placeholder.markdown(full_text + "▌")
-                            time.sleep(0.01)
-                    message_placeholder.markdown(full_text)
-                except Exception as e:
-                    st.error(f"An error occurred during response generation: {e}")
-                    full_text = "Sorry, I encountered an error while generating the response."
-                    message_placeholder.markdown(full_text)
+            Provide a direct and well-structured answer. Use markdown for formatting, including bolding for key terms, blockquotes for excerpts, and bullet points for analysis. Start your response directly without preamble.
+            """
+            
+            response_stream = model.generate_content(prompt, stream=True)
+            
+            try:
+                for chunk in response_stream:
+                    if chunk.text:
+                        full_text += chunk.text
+                        message_placeholder.markdown(full_text + "▌")
+                        time.sleep(0.01)
+                message_placeholder.markdown(full_text)
+            except Exception as e:
+                st.error(f"An error occurred during response generation: {e}")
+                full_text = "Sorry, I encountered an error while generating the response."
+                message_placeholder.markdown(full_text)
     
     st.session_state.messages.append({"role": "assistant", "content": full_text})
+    
+    st.rerun()
