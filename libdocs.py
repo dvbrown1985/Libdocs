@@ -26,7 +26,7 @@ def load_and_process_docs(files):
 @st.cache_resource
 def get_models_and_index(_texts):
     embedder = SentenceTransformer('nomic-ai/modernbert-embed-base')
-    reranker = CrossEncoder('nomic-ai/modernbert-rerank-base')
+    reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2') 
     embeddings = embedder.encode([t.page_content for t in _texts], normalize_embeddings=True)
     index = faiss.IndexFlatIP(embeddings.shape[1])
     index.add(np.array(embeddings))
