@@ -40,7 +40,7 @@ if "messages" not in st.session_state:
 
 GOOGLE_API_KEY = 'AIzaSyAPda5zKTYR1ieSBJRu5trrEZOq_Qc5C5w'
 genai.configure(api_key=GOOGLE_API_KEY)
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("gemini-2.0-flash-exp")
 
 LOGO = "libdocs.jpg"
 image = Image.open(LOGO)
