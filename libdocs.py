@@ -57,8 +57,8 @@ with st.expander("Disclaimer"):
         If you test the prototype, please note the following:
         - The app might be rate-limited with sub-optimal performance due to free services and usage limitations.
         - Limits on the number of concurrent users are in effect.
-        LibDocs is powered by Cross Encoder, FAISS, Google Gemini, LangChain, Modern BERT, Python, Sentence Transformer, and Streamlit.
-        Except for quoted excerpts from the US Constitution, Declaration of Independence, and Founding Father information, the generated output (introduction, analysis, conclusions, and supplemental references) is created by the Gemini 1.5 experimental LLM.
+        - LibDocs is powered by Cross Encoder, FAISS, Google Gemini, LangChain, Modern BERT, Python, Sentence Transformer, and Streamlit.
+        Except for quoted excerpts from the US Constitution, Declaration of Independence, and Founding Father information, the generated output is created by the Gemini 2.0 flash LLM.
     ''')
 
 container_intro = st.container(border=True)
